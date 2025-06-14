@@ -1,4 +1,4 @@
-# Reverse Audio Algorithm 🎧
+# Reverse in place Algorithm 🎧
 
 A C++ implementation of an in-place reverse algorithm, originally designed for processing audio data such as MP3 frames. This project forms the foundation of a full mobile app that plays audio files in reverse.
 
